@@ -1,1 +1,1 @@
-This folder contains shell navigation scripts
+Task 0 script: prints current directory
