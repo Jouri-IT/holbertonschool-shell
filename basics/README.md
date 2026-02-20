@@ -1,1 +1,1 @@
-Task 0 script: prints current directory
+0-current_working_directory: prints the current working directory
